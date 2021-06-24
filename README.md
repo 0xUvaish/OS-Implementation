@@ -12,3 +12,8 @@ Tasks:
 	a. exelp() system call
 	b. execle() system call
 	c. execve() system call
+
+
+Lab 7: Implementation of Deadlock Avoidance Algorithm
+Aim: To get the idea of how processes’ demand-based analysis can avoid deadlock.
+a. Code: Deadlock Avoidance (Banker’s Algorithm)
