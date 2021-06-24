@@ -17,3 +17,11 @@ Tasks:
 Lab 7: Implementation of Deadlock Avoidance Algorithm
 Aim: To get the idea of how processes’ demand-based analysis can avoid deadlock.
 a. Code: Deadlock Avoidance (Banker’s Algorithm)
+
+
+Lab 8: Simulation of MFT and MVT Memory Management Techniques
+Aim: To get the idea of how contiguous allocation of processes get affected due to the fixed and dynamic memory partitioning schemes.
+a. Code: MFT Fixed Block Size
+Tasks:
+1. MFT with Variable Block Size
+2. MVT with Variable Block Size
