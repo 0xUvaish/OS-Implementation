@@ -39,3 +39,4 @@ Lab 10: Implementation of Page Replacement Algorithms
 Aim: To get the idea of how page replacement is facilitated using different criteria.
 Tasks:
 1. First In First Out (FIFO)
+2. Least Recently Used (LRU)
