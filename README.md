@@ -41,3 +41,4 @@ Tasks:
 1. First In First Out (FIFO)
 2. Least Recently Used (LRU)
 3. Least Frequently Used (LFU)
+4. Optimal Page Replacement (OPR)
