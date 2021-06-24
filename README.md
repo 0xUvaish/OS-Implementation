@@ -1,5 +1,4 @@
-- � I’m currently pursuing B.Tech. in CSE from IIIT Una.
-- � I’m currently learning and exploring Cyber Security.
+- This repository contains implementations of concepts in Operating System.
 
 Lab 6: Implementation of System Calls related to Process Creation
 Aim: To get the idea of how processes are created using fork() system call.
