@@ -55,3 +55,5 @@ Lab 12: Implementation of Different File Organization Techniques
 Aim: To get the idea of how file organization works in file systems.
 a. Single Level Directory
 b. Two-Level Directory
+Tasks:
+1. Tree Structured Directory
