@@ -62,3 +62,4 @@ Tasks:
 Lab 13: Implementation of Disk Scheduling Algorithms
 Aim: To get the idea of how scheduling of requested tracks works.
 a. FCFS Disk Scheduling Algorithm
+b. SCAN Disk Scheduling Algorithm
