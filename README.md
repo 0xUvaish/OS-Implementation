@@ -40,3 +40,4 @@ Aim: To get the idea of how page replacement is facilitated using different crit
 Tasks:
 1. First In First Out (FIFO)
 2. Least Recently Used (LRU)
+3. Least Frequently Used (LFU)
