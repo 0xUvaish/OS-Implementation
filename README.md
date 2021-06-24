@@ -25,3 +25,11 @@ a. Code: MFT Fixed Block Size
 Tasks:
 1. MFT with Variable Block Size
 2. MVT with Variable Block Size
+
+
+Lab 9: Simulation of First Fit, Best Fit and Worst Fit Memory Allocation Techniques
+Aim: To get the idea of how different memory allocation techniques are carried out in memory.
+Tasks:
+1. First Fit Allocation Technique
+2. Best Fit Allocation Technique
+3. Worst Fit Allocation Technique
