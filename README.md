@@ -42,3 +42,9 @@ Tasks:
 2. Least Recently Used (LRU)
 3. Least Frequently Used (LFU)
 4. Optimal Page Replacement (OPR)
+
+
+Lab 11: Implementation of File Allocation Strategies
+Aim: To get the idea of how basic file allocation strategies work.
+Tasks:
+1. Linked List Allocation Code
