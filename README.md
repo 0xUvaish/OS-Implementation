@@ -48,3 +48,4 @@ Lab 11: Implementation of File Allocation Strategies
 Aim: To get the idea of how basic file allocation strategies work.
 Tasks:
 1. Linked List Allocation Code
+2. Indexed File Allocation Code
