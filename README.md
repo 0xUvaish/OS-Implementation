@@ -65,3 +65,4 @@ a. FCFS Disk Scheduling Algorithm
 b. SCAN Disk Scheduling Algorithm
 Tasks:
 1. CSCAN Disk Scheduling Algorithm
+2. LOOK Disk Scheduling Algorithm
