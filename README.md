@@ -49,3 +49,8 @@ Aim: To get the idea of how basic file allocation strategies work.
 Tasks:
 1. Linked List Allocation Code
 2. Indexed File Allocation Code
+
+
+Lab 12: Implementation of Different File Organization Techniques
+Aim: To get the idea of how file organization works in file systems.
+a. Single Level Directory
