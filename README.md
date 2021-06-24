@@ -1,3 +1,6 @@
+- � I’m currently pursuing B.Tech. in CSE from IIIT Una.
+- � I’m currently learning and exploring Cyber Security.
+
 Lab 6: Implementation of System Calls related to Process Creation
 Aim: To get the idea of how processes are created using fork() system call.
 a. Code-I: For tracing the execution of Parent and Child processes
