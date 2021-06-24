@@ -33,3 +33,9 @@ Tasks:
 1. First Fit Allocation Technique
 2. Best Fit Allocation Technique
 3. Worst Fit Allocation Technique
+
+
+Lab 10: Implementation of Page Replacement Algorithms
+Aim: To get the idea of how page replacement is facilitated using different criteria.
+Tasks:
+1. First In First Out (FIFO)
