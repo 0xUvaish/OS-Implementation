@@ -1,3 +1,8 @@
+Lab 3: Implementation of Round Robin & Priority CPU Scheduling Algorithms
+Aim: To get the idea of how logics for Round Robin & Priority CPU Scheduling Algorithms are developed.
+a. RR Code (for same arrival time)
+
+
 Lab 4: Implementation of Multilevel Queue Scheduling Algorithm
 Aim: To get the idea of how logics for Multilevel Queue Scheduling is developed.
 a. MLQ (for same arrival time)
