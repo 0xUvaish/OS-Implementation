@@ -2,6 +2,8 @@ Lab 2: Implementation of FCFS & SJF CPU Scheduling Algorithms
 Aim: To get the idea of how logics for FCFS and SJF CPU Scheduling Algorithms are developed.
 a. FCFS Code (for same arrival time)
 b. SJF Code (for same arrival time)
+Tasks:
+1. FCFS with different Arrival time
 
 
 Lab 3: Implementation of Round Robin & Priority CPU Scheduling Algorithms
