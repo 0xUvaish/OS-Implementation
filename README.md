@@ -1,5 +1,3 @@
-- This repository contains implementations of concepts in Operating System.
-
 Lab 6: Implementation of System Calls related to Process Creation
 Aim: To get the idea of how processes are created using fork() system call.
 a. Code-I: For tracing the execution of Parent and Child processes
