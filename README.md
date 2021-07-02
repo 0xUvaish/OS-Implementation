@@ -3,6 +3,7 @@ Aim: To get the idea of how logics for Multilevel Queue Scheduling is developed.
 a. MLQ (for same arrival time)
 Tasks:
 1. MLQ with different Arrival Time
+2. MLQ with Time Slice
 
 
 Lab 5: Implementation of Synchronized Producer Consumer using Semaphores and Mutex
