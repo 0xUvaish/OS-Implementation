@@ -1,3 +1,8 @@
+Lab 1: File-related System Calls Implementation 
+Aim: To get acquainted with how the system calls are invoked for file-related functionalities.
+a. Creating a File
+
+
 Lab 2: Implementation of FCFS & SJF CPU Scheduling Algorithms
 Aim: To get the idea of how logics for FCFS and SJF CPU Scheduling Algorithms are developed.
 a. FCFS Code (for same arrival time)
