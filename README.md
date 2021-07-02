@@ -3,6 +3,8 @@ Aim: To get acquainted with how the system calls are invoked for file-related fu
 a. Creating a File
 b. Creating and Opening a File
 c. Seeking a File
+Tasks:
+1. Copying Text from One file to Another
 
 
 Lab 2: Implementation of FCFS & SJF CPU Scheduling Algorithms
