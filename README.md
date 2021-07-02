@@ -3,6 +3,7 @@ Aim: To get the idea of how Semaphores and Mutex are used for synchronizing a cr
 a. PC Code with Semaphores and Mutex
 Tasks:
 1. Without Wakeup and Sleep System Calls
+2. With Wakeup and Sleep System Calls
 
 
 Lab 6: Implementation of System Calls related to Process Creation
