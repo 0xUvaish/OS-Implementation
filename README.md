@@ -1,8 +1,3 @@
-Lab 5: Implementation of Synchronized Producer Consumer using Semaphores and Mutex
-Aim: To get the idea of how Semaphores and Mutex are used for synchronizing a critical section.
-a. PC Code with Semaphores and Mutex
-
-
 Lab 6: Implementation of System Calls related to Process Creation
 Aim: To get the idea of how processes are created using fork() system call.
 a. Code-I: For tracing the execution of Parent and Child processes
