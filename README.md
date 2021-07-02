@@ -4,6 +4,7 @@ a. RR Code (for same arrival time)
 b. Priority Scheduling Code (for same arrival time)
 Tasks:
 1. Round Robin with different Arrival time
+2. Priority with different Arrival time
 
 
 Lab 4: Implementation of Multilevel Queue Scheduling Algorithm
