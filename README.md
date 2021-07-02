@@ -1,3 +1,8 @@
+Lab 4: Implementation of Multilevel Queue Scheduling Algorithm
+Aim: To get the idea of how logics for Multilevel Queue Scheduling is developed.
+a. MLQ (for same arrival time)
+
+
 Lab 5: Implementation of Synchronized Producer Consumer using Semaphores and Mutex
 Aim: To get the idea of how Semaphores and Mutex are used for synchronizing a critical section.
 a. PC Code with Semaphores and Mutex
