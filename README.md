@@ -1,6 +1,8 @@
 Lab 4: Implementation of Multilevel Queue Scheduling Algorithm
 Aim: To get the idea of how logics for Multilevel Queue Scheduling is developed.
 a. MLQ (for same arrival time)
+Tasks:
+1. MLQ with different Arrival Time
 
 
 Lab 5: Implementation of Synchronized Producer Consumer using Semaphores and Mutex
