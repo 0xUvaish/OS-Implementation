@@ -6,6 +6,7 @@ c. Seeking a File
 Tasks:
 1. Copying Text from One file to Another
 2. Updating File Path
+3. Deleting File Path
 
 
 Lab 2: Implementation of FCFS & SJF CPU Scheduling Algorithms
