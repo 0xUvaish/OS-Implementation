@@ -4,6 +4,7 @@ a. FCFS Code (for same arrival time)
 b. SJF Code (for same arrival time)
 Tasks:
 1. FCFS with different Arrival time
+2. SJF with different Arrival time
 
 
 Lab 3: Implementation of Round Robin & Priority CPU Scheduling Algorithms
